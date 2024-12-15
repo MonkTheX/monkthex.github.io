@@ -11,7 +11,5 @@ This website looks sketchy because the owner doesn't wanna add a theme to it so 
 [Test](https://monkthex.github.io/testPart1)
 ‎
 ‎
-‎
-‎——————————————————————
 
 [Credits]() - [Games]() - [Legal]() - [HomePage](https://monkthex.github.io/)
