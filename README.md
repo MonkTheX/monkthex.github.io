@@ -13,4 +13,4 @@ This website looks sketchy because the owner doesn't wanna add a theme to it so 
 
 
 
-[Credits]() - [Games]() - [Legal]() - [HomePage]()
+[Credits]() - [Games]() - [Legal]() - [HomePage](https://monkthex.github.io/)
