@@ -9,3 +9,8 @@ This website looks sketchy because the owner doesn't wanna add a theme to it so 
 ## Public Projects
 
 {None added yet}
+
+
+
+
+[Credits]() - [Games]() - [Legal]() - [HomePage]()
