@@ -8,7 +8,7 @@ This website looks sketchy because the owner doesn't wanna add a theme to it so 
 
 ## Public Projects
 
-My Projects have moved!
+My Projects have moved!;
 now at monkthex.github.io/NBS
 ‎
 ‎
