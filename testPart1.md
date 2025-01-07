@@ -2,6 +2,5 @@
 
 Click the button below to download the file:
 
-<a href="https://github.com/MonkTheX/test/raw/main/testPart.txt" class="download-btn" download>
-    Download Now
-</a>
+[Download](https://monkthex.github.io/downloadbtn1)
+(sorry, the download button that it leads to looks really sketchy. trust me im not gonna give you free Fortnite hacks lol)
