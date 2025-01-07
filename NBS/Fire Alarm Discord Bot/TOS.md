@@ -13,7 +13,7 @@ The creators and developers of the Fire Alarm Discord Bot are not responsible fo
 
 ## Copying
 
-We are not responsible for any harm copies of the Fire Alarm Discord Bot may do. To verify that you are using the real bot, look for the verified symbol next to the "App" icon and make sure the status has the words "inv.gg" at the start.
+We are not responsible for any harm copies of the Fire Alarm Discord Bot may do. To verify that you are using the real bot, make sure the status has the words "inv.gg" at the start.
 
 ## Contact
 
